@@ -1,0 +1,2 @@
+# Kolbot-your-connection-has-been-interupted
+Hello! so last night i finally was able to set up my kolbot bot! it worked fantastic! but i noticed that my bot would chicken out in act 2 often because of the lighting immunity! so I decided to go in the config folder and turn some of the scripts to False so my sorc would skip act to in general! but since then i started getting "your connection has been interrupted" ive googled, youtube and i havent been able to find the issue!
